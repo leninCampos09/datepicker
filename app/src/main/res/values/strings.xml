@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">date picker</string>
+    <string name="datepicker">DatePicker</string>
+    <string name="seleccione_el_dia_de_la_semana">seleccione el dia de la semana</string>
+</resources>
